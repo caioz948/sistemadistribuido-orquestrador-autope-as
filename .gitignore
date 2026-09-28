@@ -1,0 +1,16 @@
+# Compilação Maven
+/target/
+
+# IDE Eclipse
+.classpath
+.project
+.settings/
+
+# IDE IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Logs e arquivos temporários
+*.log
+.DS_Store
